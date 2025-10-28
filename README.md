@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Android Development, Web Development.
-- 👯 I’m looking to collaborate on Android Development.
+- 🌱 I’m curious to learn new things as Security developer in automobile company. 
+- 👯 I’m currently focused on area linux, security vulnerabilities, secure boot, library development for Trusted Apps interface
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavi-torgal)
 - 😄 Pronouns:She/Her.
-- ⚡ Fun fact: I love to write.
+- ⚡ Fun fact: I love to write, paint
 
 
 ### Badges
